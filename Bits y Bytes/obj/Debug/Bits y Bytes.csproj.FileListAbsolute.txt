@@ -1,0 +1,18 @@
+D:\Facu\4to semestre\Estructura de Datos\Bits y Bytes\Bits y Bytes\bin\Debug\Bits y Bytes.exe.config
+D:\Facu\4to semestre\Estructura de Datos\Bits y Bytes\Bits y Bytes\bin\Debug\Bits y Bytes.exe
+D:\Facu\4to semestre\Estructura de Datos\Bits y Bytes\Bits y Bytes\bin\Debug\Bits y Bytes.pdb
+D:\Facu\4to semestre\Estructura de Datos\Bits y Bytes\Bits y Bytes\obj\Debug\Bits y Bytes.csprojResolveAssemblyReference.cache
+D:\Facu\4to semestre\Estructura de Datos\Bits y Bytes\Bits y Bytes\obj\Debug\Bits_y_Bytes.Form1.resources
+D:\Facu\4to semestre\Estructura de Datos\Bits y Bytes\Bits y Bytes\obj\Debug\Bits_y_Bytes.Properties.Resources.resources
+D:\Facu\4to semestre\Estructura de Datos\Bits y Bytes\Bits y Bytes\obj\Debug\Bits y Bytes.csproj.GenerateResource.Cache
+D:\Facu\4to semestre\Estructura de Datos\Bits y Bytes\Bits y Bytes\obj\Debug\Bits y Bytes.exe
+D:\Facu\4to semestre\Estructura de Datos\Bits y Bytes\Bits y Bytes\obj\Debug\Bits y Bytes.pdb
+E:\Facu\4to semestre\Estructura de Datos\Bits y Bytes\Bits y Bytes\bin\Debug\Bits y Bytes.exe.config
+E:\Facu\4to semestre\Estructura de Datos\Bits y Bytes\Bits y Bytes\obj\Debug\Bits y Bytes.exe
+E:\Facu\4to semestre\Estructura de Datos\Bits y Bytes\Bits y Bytes\obj\Debug\Bits y Bytes.pdb
+E:\Facu\4to semestre\Estructura de Datos\Bits y Bytes\Bits y Bytes\bin\Debug\Bits y Bytes.exe
+E:\Facu\4to semestre\Estructura de Datos\Bits y Bytes\Bits y Bytes\bin\Debug\Bits y Bytes.pdb
+E:\Facu\4to semestre\Estructura de Datos\Bits y Bytes\Bits y Bytes\obj\Debug\Bits y Bytes.csprojResolveAssemblyReference.cache
+E:\Facu\4to semestre\Estructura de Datos\Bits y Bytes\Bits y Bytes\obj\Debug\Bits_y_Bytes.Form1.resources
+E:\Facu\4to semestre\Estructura de Datos\Bits y Bytes\Bits y Bytes\obj\Debug\Bits_y_Bytes.Properties.Resources.resources
+E:\Facu\4to semestre\Estructura de Datos\Bits y Bytes\Bits y Bytes\obj\Debug\Bits y Bytes.csproj.GenerateResource.Cache
